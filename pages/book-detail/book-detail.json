@@ -1,0 +1,7 @@
+{
+  "usingComponents": {
+    "com-like": "/components/like/index",
+    "com-mask": "/components/mask/index",
+    "com-tag": "/components/tag/index"
+  }
+}

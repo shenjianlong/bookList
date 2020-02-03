@@ -1,0 +1,10 @@
+{
+  "usingComponents": {
+    "com-like": "/components/like/index",
+    "com-movie": "/components/classic/movie/index",
+    "com-music": "/components/classic/music/index",
+    "com-essay": "/components/classic/essay/index",
+    "com-epsoide": "/components/epsoide/index",
+    "com-navi": "/components/navi/index"
+  }
+}

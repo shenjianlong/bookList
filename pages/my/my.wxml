@@ -1,0 +1,10 @@
+<view class="container">
+    <image class="bg" src="/images/my/my@bg.png"/>
+    <com-button wx:if="{{!authorized}}" class="avatar-position" open-type="getUserInfo" bind:getuserinfo="getUserInfo">
+        <image slot="img" src="/images/my/my.png" class="avatar"/>
+    </com-button>
+    <view class="count-container">
+        <text>{{bookCount}}</text>
+        <text class="count-text">喜欢的书</text>
+    </view>
+</view>

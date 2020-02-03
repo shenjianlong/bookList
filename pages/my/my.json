@@ -1,0 +1,5 @@
+{
+  "usingComponents": {
+    "com-button": "/components/img-button/img-button"
+  }
+}

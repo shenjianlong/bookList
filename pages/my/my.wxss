@@ -1,0 +1,43 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+}
+
+.bg {
+    width: 750rpx;
+    height: 574rpx;
+}
+
+.avatar {
+    width: 140rpx;
+    height: 140rpx;
+    border-radius: 50%;
+    overflow: hidden;
+}
+
+.avatar-position {
+    position: absolute;
+    top: 250rpx;
+}
+
+.userInfo-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.userName {
+    margin-top: 10rpx;
+}
+
+.count-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.count-text {
+    margin-top: 10rpx;
+}
